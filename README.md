@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Alexander Shiryaev
 - 👀 I’m interested in Web development
 - 💞️  I’m currently learning JavaScript/TypeScript
+- ❤️ Python is my LOVE ❤️
 - 📫 How to reach me aleksandr-shiryaev-1993@mail.ru
 - ✨ My web-site: https://www.alexander-shiryaev.ru
 
