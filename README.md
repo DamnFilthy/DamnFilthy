@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexander Shiryaev
-- 👀 I’m interested in Web development
-- 💞️  I’m currently learning JavaScript/TypeScript
-- 📫 How to reach me aleksandr-shiryaev-1993@mail.ru
+- 👀 I’m Team Lead in frontend dev
+- 💞️  I’m love Vue.js
+- 📫 How to reach me https://t.me/Alexshir1993
 - ✨ My web-site: https://www.alexander-shiryaev.ru
 
 
