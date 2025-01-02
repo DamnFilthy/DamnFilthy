@@ -2,7 +2,7 @@
 
 - 👀 I’m Team Lead in frontend dev
 - 💞️  I’m love Vue.js
-- ✨ My web-site: https://www.alexander-shiryaev.ru
+- ✨ My web-site: https://shiryaev.io/about
 
 ## 🛠 I’m currently working with:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
